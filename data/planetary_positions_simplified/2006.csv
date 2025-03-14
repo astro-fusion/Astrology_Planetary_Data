@@ -1,0 +1,366 @@
+House 1,House 2,House 3,House 4,House 5,House 6,House 7,House 8,House 9,House 10,House 11,House 12
+Ketu,Jupiter,,Sun Moon Mercury,Venus,,Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury,Moon Venus,,Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury,Moon Venus,,Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury,Venus,Moon,Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury,Venus,Moon,Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury,Venus,,Moon Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Moon Rahu,Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Moon Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Moon Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Moon Mars,,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,Moon,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,Moon,,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,,Moon,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,,Moon,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,,Moon,Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,,,Moon Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,,,Moon Saturn,
+Ketu,Jupiter,,Sun Mercury Venus,,,Rahu,Mars,,,Moon Saturn,
+,Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Moon Ketu
+,Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Moon Ketu
+,Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Moon Ketu
+Moon,Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+Moon,Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+,Moon Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+,Moon Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+,Moon Jupiter,,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+,Jupiter,Moon,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+,Jupiter,Moon,Sun Mercury Venus,,Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Moon Mercury,,Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Moon Mercury,,Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,Moon,Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,Moon,Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,,Moon Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,,Moon Rahu,,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,,Rahu,Moon,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,,Rahu,Moon,Mars,,Saturn,,Ketu
+Jupiter,,Venus,Sun Mercury,,Rahu,Moon Mars,,,Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,Moon,,Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,Moon,,Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,Moon,Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,Moon,Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,Moon,Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Moon Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Moon Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Moon Saturn,,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Saturn,Moon,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Saturn,Moon,Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Saturn,,Moon Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Saturn,,Moon Ketu
+Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,,Saturn,,Moon Ketu
+Moon Jupiter,,Venus,Sun,Mercury,Rahu,Mars,,Saturn,,,Ketu
+Moon Jupiter,,Venus,Sun,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,Moon,Venus,Sun,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,Moon,Venus,Sun,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,Moon,Venus,Sun,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Moon Venus,Sun,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Moon Venus,Sun,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun Moon,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun Moon,Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Moon Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Moon Mercury Rahu,,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Mercury Rahu,Moon,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Mercury Rahu,Moon,Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Mercury Rahu,,Moon Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Mercury Rahu,,Moon Mars,,Saturn,,Ketu,
+Jupiter,,Venus,Sun,Mercury Rahu,,Moon Mars,,Saturn,,Ketu,
+,,Venus,Sun,Mercury Rahu,,Mars,Moon,Saturn,,Ketu,Jupiter
+,,Venus,Sun,Mercury Rahu,,Mars,Moon,Saturn,,Ketu,Jupiter
+,,Venus,Sun,Mercury Rahu,,Mars,,Moon Saturn,,Ketu,Jupiter
+,,Venus,Sun,Mercury Rahu,,Mars,,Moon Saturn,,Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Moon Saturn,,Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,Moon,Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,Moon,Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,Moon,Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Moon Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Moon Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Moon Ketu,Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Moon Jupiter
+,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Moon Jupiter
+Moon,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Jupiter
+Moon,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Jupiter
+Moon,,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Jupiter
+,Moon,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Jupiter
+,Moon,Venus,Sun Mercury,Rahu,,Mars,,Saturn,,Ketu,Jupiter
+,,Moon Venus,Sun Mercury Rahu,,,Mars,Saturn,,Ketu,,Jupiter
+,,Moon Venus,Sun Mercury Rahu,,,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Moon Mercury Rahu,Sun,,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Moon Mercury Rahu,Sun,,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun Moon,,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun Moon,,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,Moon,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,Moon,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,Moon,Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,,Moon Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,,Moon Mars,Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,,Mars,Moon Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,,Mars,Moon Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,,Mars,Moon Saturn,,Ketu,,Jupiter
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,Moon,Ketu,Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,Moon,Ketu,Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,Moon,Ketu,Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Moon Ketu,Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Moon Ketu,Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Moon Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Moon Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Moon Jupiter,
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,Moon
+,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,Moon
+Moon,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+Moon,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+Moon,,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+,Moon,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+,Moon,Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+,,Moon Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+,,Moon Venus,Mercury Rahu,Sun,,Mars,Saturn,,Ketu,Jupiter,
+,,Venus Rahu,Moon Mercury,Sun,,Mars,Saturn,Ketu,,Jupiter,
+,,Venus Rahu,Moon Mercury,Sun,,Mars Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun Moon,,Mars Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun Moon,,Mars Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun Moon,,Mars Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun,Moon,Mars Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun,Moon,Mars Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun,Mars,Moon Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun,Mars,Moon Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun,Mars,Moon Saturn,,Ketu,,Jupiter,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,Moon,Ketu,Jupiter,,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,Moon,Ketu,Jupiter,,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,Moon,Ketu,Jupiter,,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,,Moon Ketu,Jupiter,,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,,Moon Ketu,Jupiter,,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,,Ketu,Moon Jupiter,,
+,,Venus Rahu,Mercury,Sun,Mars,Saturn,,Ketu,Moon Jupiter,,
+,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Moon Jupiter,,
+,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,Moon,
+,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,Moon,
+,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,Moon,
+,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,,Moon
+,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,,Moon
+Moon,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,,
+Moon,,Venus Rahu,Sun Mercury,,Mars,Saturn,,Ketu,Jupiter,,
+,Moon,Venus Rahu,Sun,Mercury,Mars,Saturn,,Ketu,Jupiter,,
+,Moon Rahu,Venus,Sun,Mercury,Mars,Saturn,Ketu,,Jupiter,,
+,Moon Rahu,Venus,Sun,Mercury,Mars,Saturn,Ketu,,Jupiter,,
+,Rahu,Moon Venus,Sun,Mercury,Mars,Saturn,Ketu,,Jupiter,,
+,Rahu,Moon Venus,Sun,Mercury,Mars,Saturn,Ketu,,Jupiter,,
+,Rahu,Venus,Sun Moon,Mercury,Mars Saturn,,Ketu,,Jupiter,,
+,Rahu,Venus,Sun Moon,Mercury,Mars Saturn,,Ketu,,Jupiter,,
+,Rahu,Venus,Sun,Moon Mercury,Mars Saturn,,Ketu,,Jupiter,,
+,Rahu,Venus,Sun,Moon Mercury,Mars Saturn,,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Moon Mercury,Mars Saturn,,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Moon Mars Saturn,,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Moon Mars Saturn,,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,Moon,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,Moon,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,Moon,Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Moon Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Moon Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Moon Ketu,Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Ketu,Moon Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Ketu,Moon Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Ketu,Moon Jupiter,,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Ketu,Jupiter,Moon,,
+,Rahu,Venus,Sun,Mercury,Mars Saturn,,Ketu,Jupiter,Moon,,
+Rahu,,Venus,Sun,Mercury,Mars Saturn,Ketu,,Jupiter,,Moon,
+Rahu,,Venus,Sun,Mercury,Mars Saturn,Ketu,,Jupiter,,Moon,
+Rahu,,Venus,Sun,Mercury,Mars Saturn,Ketu,,Jupiter,,Moon,
+Rahu,,Venus,Sun,Mercury,Mars Saturn,Ketu,,Jupiter,,,Moon
+Rahu,,Venus,Sun,Mercury,Mars Saturn,Ketu,,Jupiter,,,Moon
+Moon Rahu,,Venus,Sun,Mercury,Mars Saturn,Ketu,,Jupiter,,,
+Moon Rahu,,Venus,Sun,Mercury Mars Saturn,,Ketu,,Jupiter,,,
+Rahu,Moon,Venus,Sun,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,Moon,Venus,Sun,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,Moon,Venus,Sun,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Moon Venus,Sun,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Moon Venus,Sun,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun Moon,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun Moon,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun Moon,Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun,Moon Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun,Moon Mercury Mars Saturn,,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun,Mercury Mars Saturn,Moon,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun,Mercury Mars Saturn,Moon,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun,Mercury Mars Saturn,Moon,Ketu,Jupiter,,,,
+Rahu,,Venus,Sun,Mercury Mars Saturn,,Moon Ketu,Jupiter,,,,
+,,Venus,Sun,Mercury Mars Saturn,Ketu,Moon,Jupiter,,,,Rahu
+,,Venus,Sun,Mercury Mars Saturn,Ketu,Moon,Jupiter,,,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,,Moon Jupiter,,,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,,Moon Jupiter,,,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,,Moon Jupiter,,,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,,Jupiter,Moon,,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,,Jupiter,Moon,,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,Jupiter,,,Moon,,Rahu
+,,Venus,Sun Mercury,Mars Saturn,Ketu,Jupiter,,,Moon,,Rahu
+,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,Moon,Rahu
+,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,Moon,Rahu
+,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,Moon,Rahu
+,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,,Moon Rahu
+,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,,Moon Rahu
+Moon,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+Moon,,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,Moon,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,Moon,Venus,Sun Mercury Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,Moon,Mercury Venus,Sun Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,,Moon Mercury Venus,Sun Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,,Moon Mercury Venus,Sun Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,,Moon Mercury Venus,Sun Saturn,Mars,Ketu,Jupiter,,,,,Rahu
+,,Mercury Venus,Sun Moon Saturn,Mars Ketu,,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Moon Saturn,Mars Ketu,,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Saturn,Moon Mars Ketu,,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Saturn,Moon Mars Ketu,,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Saturn,Moon Mars Ketu,,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Saturn,Mars Ketu,Moon,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Saturn,Mars Ketu,Moon,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,Moon,Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,,Moon Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,,Moon Jupiter,,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,,Jupiter,Moon,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,Jupiter,,Moon,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,Jupiter,,Moon,,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,Jupiter,,,Moon,,Rahu,
+,,Mercury Venus,Sun Mars Saturn,Ketu,Jupiter,,,Moon,,Rahu,
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,Moon,Rahu,
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,Moon,Rahu,
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Moon Rahu,
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Moon Rahu,
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,Moon
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,Moon
+,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,Moon
+Moon,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,
+Moon,,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,
+,Moon,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,
+,Moon,Mercury Venus Saturn,Sun Mars,Ketu,Jupiter,,,,,Rahu,
+,Moon,Mercury Venus Saturn,Sun Mars Ketu,,Jupiter,,,,Rahu,,
+,,Moon Mercury Venus Saturn,Sun Mars Ketu,,Jupiter,,,,Rahu,,
+,,Moon Mercury Venus Saturn,Sun Mars Ketu,,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Moon Mars Ketu,,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Moon Mars Ketu,,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Moon Mars Ketu,,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Mars Ketu,Moon,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Mars Ketu,Moon,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Mars Ketu,Moon,Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Mars Ketu,,Moon Jupiter,,,,Rahu,,
+,,Mercury Venus Saturn,Sun Mars Ketu,,Moon Jupiter,,,,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Moon Jupiter,,,,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,Moon,,,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,Moon,,,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,,Moon,,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,,Moon,,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,,,Moon,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,,,Moon,Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,,Jupiter,,,,Moon Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,Jupiter,,,,,Moon Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,Jupiter,,,,,Moon Rahu,,
+,,Venus Saturn,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,Moon,
+,,Venus Saturn,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,Moon,
+,,Venus Saturn,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,Moon
+,,Venus Saturn,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,Moon
+Moon,Saturn,Venus,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,
+Moon,Saturn,Venus,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,
+Moon,Saturn,Venus,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,
+,Moon Saturn,Venus,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,
+,Moon Saturn,Venus,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,
+,Saturn,Moon Venus,Sun Mercury Mars Ketu,Jupiter,,,,,Rahu,,
+,Saturn,Moon Venus Ketu,Sun Mercury Mars,Jupiter,,,,Rahu,,,
+,Saturn,Moon Venus Ketu,Sun Mercury Mars,Jupiter,,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Moon Mercury Mars,Jupiter,,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Moon Mercury Mars,Jupiter,,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Moon Mercury Mars,Jupiter,,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Moon Jupiter,,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Moon Jupiter,,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,Moon,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,Moon,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,Moon,,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,Moon,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,Moon,,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,Moon,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,Moon,Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,,Moon Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,,Moon Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,,Moon Rahu,,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,,Rahu,Moon,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,,Rahu,Moon,,
+,Saturn,Venus Ketu,Sun Mercury Mars,Jupiter,,,,Rahu,,Moon,
+,Saturn,Ketu,Sun Mercury Venus Mars,Jupiter,,,,Rahu,,Moon,
+,Saturn,Ketu,Sun Mercury Venus Mars,Jupiter,,,,Rahu,,,Moon
+,Saturn,Ketu,Sun Mercury Venus Mars,Jupiter,,,,Rahu,,,Moon
+Moon,Saturn,Ketu,Sun Mercury Venus Mars,Jupiter,,,,Rahu,,,
+Moon,Saturn,Ketu,Sun Mercury Venus Mars,Jupiter,,,,Rahu,,,
+Moon,Saturn,Ketu,Sun Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Moon Saturn,Ketu,Sun Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Moon Saturn,Ketu,Sun Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Moon Saturn,Ketu,Sun Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Saturn,Moon Ketu,Sun Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Saturn,Moon Ketu,Sun Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Saturn,Ketu,Sun Moon Venus Mars,Mercury Jupiter,,,,Rahu,,,
+,Saturn,Ketu,Sun Moon Venus Mars,Mercury Jupiter,,,,Rahu,,,
+Saturn,Ketu,,Sun Moon Mercury Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,Moon,,,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,Moon,,,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,Moon,,,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,Moon,,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,Moon,,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,Moon,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,Moon,Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Moon Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Moon Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Moon Rahu,,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,Moon,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,Moon,,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,Moon,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,Moon,,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,,Moon,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,,Moon,
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,,,Moon
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,,,Moon
+Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,,,Moon
+Moon Saturn,Ketu,,Sun Mercury Venus Mars Jupiter,,,,Rahu,,,,
+Moon Saturn,Ketu,Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Moon Ketu,Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Moon Ketu,Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Moon Ketu,Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,Moon Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,Moon Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,Moon Mercury,Sun Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,Mercury,Sun Moon Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,Mercury,Sun Moon Venus Mars Jupiter,,,,Rahu,,,,
+Saturn,Ketu,Mercury,Sun Venus Mars Jupiter,Moon,,,Rahu,,,,
+Saturn,Ketu,Mercury,Sun Venus Mars Jupiter,Moon,,,Rahu,,,,
+Saturn,Ketu,Mercury,Sun Venus Mars Jupiter,Moon,,,Rahu,,,,
+Saturn Ketu,,Mercury,Sun Venus Mars Jupiter,,Moon,Rahu,,,,,
+Saturn Ketu,,Mercury,Sun Venus Mars Jupiter,,Moon,Rahu,,,,,
+Saturn Ketu,,Mercury,Sun Venus Mars Jupiter,,,Moon Rahu,,,,,
+Saturn Ketu,,Mercury,Sun Venus Mars Jupiter,,,Moon Rahu,,,,,
+Ketu,,Mercury,Sun Venus Mars Jupiter,,,Rahu,Moon,,,,Saturn
+Ketu,,Mercury,Sun Venus Mars Jupiter,,,Rahu,Moon,,,,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,Moon,,,,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,Moon,,,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,Moon,,,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,,Moon,,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,,Moon,,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,,,Moon,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,,,Moon,Saturn
+Ketu,,Mercury Mars,Sun Venus Jupiter,,,Rahu,,,,,Moon Saturn
+Ketu,,Mercury Mars Jupiter,Sun Venus,,,Rahu,,,,,Moon Saturn
+Ketu,,Mercury Mars Jupiter,Sun Venus,,,Rahu,,,,,Moon Saturn
+Moon Ketu,,Mercury Mars Jupiter,Sun Venus,,,Rahu,,,,,Saturn
+Moon Ketu,,Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Moon Ketu,,Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,Moon,Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,Moon,Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,Moon,Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,,Moon Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,,Moon Mars Jupiter,Sun Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Moon Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Moon Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Moon Mercury Venus,,,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Mercury Venus,Moon,,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Mercury Venus,Moon,,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Mercury,Venus,Moon,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Mercury,Venus,Moon,Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Mercury,Venus,,Moon Rahu,,,,,Saturn
+Ketu,,Mars Jupiter,Sun Mercury,Venus,,Moon Rahu,,,,,Saturn
+,,Mars Jupiter,Sun Mercury,Venus,Rahu,,Moon,,,,Saturn Ketu
+,,Mars Jupiter,Sun Mercury,Venus,Rahu,,Moon,,,,Saturn Ketu
+,,Mars Jupiter,Sun Mercury,Venus,Rahu,,Moon,,,,Saturn Ketu
