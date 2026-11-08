@@ -1,3 +1,26 @@
+> **ARCHIVED 2026-11-08. Do not use this dataset for new work.**
+>
+> This repository is superseded by
+> [`astro-fusion/astro_research-white-paper`](https://github.com/astro-fusion/astro_research-white-paper).
+> The planetary dataset (1600-2100) is regenerated there with a verified engine
+> (Swiss Ephemeris, sidereal Lahiri, mean node, Ketu = Rahu + 180, whole-sign) and
+> published as release assets with a schema, manifests and SHA-256 hashes:
+>
+> - Dataset section: https://github.com/astro-fusion/astro_research-white-paper/blob/main/site/data.qmd
+> - Releases (tags `dataset-v*`): https://github.com/astro-fusion/astro_research-white-paper/releases
+>
+> **Why.** The CSVs here hold only house occupancy per day or hour for an
+> unsourced ascendant, with no longitudes, and they cannot be reproduced: neither
+> a tropical nor a Lahiri-sidereal calculation explains them (see
+> `docs/DATA_PROVENANCE.md` section 7 in the new repository). The scripts that
+> produced them are not recorded here. `house_lordships_complete` depended on the
+> same unsourced ascendant and is not reproduced in the new dataset.
+>
+> **Existing notebooks.** The raw CSV URLs under `data/` stay available so that
+> existing notebooks keep running, but nothing here is maintained or corrected.
+
+---
+
 # Astrology Planetary Data: 16th to 21st Century
 
 ## Overview
